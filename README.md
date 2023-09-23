@@ -1,4 +1,4 @@
-# Cost-Analysis
+# Cost Optimization Analyzer
 
 
 Problem statement: 
